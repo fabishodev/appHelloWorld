@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloWorld2</string>
+    <string name="text_label">Hola Mundo</string>
+    <string name="say_hello">Saluda</string>
+    <string name="say_hello_2">Saluda 2</string>
+    <string name="enter_name">Ingresa tu Nombre</string>
+    <string name="hello">Hola</string>
+    <string name="back">Volver</string>
+    <string name="back_return_value">Volver y retornar valor</string>
+    <string name="show_toolbar">Mostar Actividad con Toolbar </string>
+    <string name="show_fragments">Show Activity with Fragments</string>
+</resources>
